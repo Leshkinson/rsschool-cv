@@ -10,3 +10,12 @@ I am 28 years old, I work as a head of production of the department. I think tha
 Quick learner\
 Diligence\
 Team playing\
+Keep learning…
+# Skills
+* HTML
+* CSS (Bootstrap, SASS/SCSS, BEM)
+* JavaScript (Fundamentals, ES6+, DOM, JSON, Asynchronous JavaScript)
+* Git/GitHub
+* CorelDraw
+# Code Example
+```
