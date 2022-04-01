@@ -19,3 +19,13 @@ Keep learning…
 * CorelDraw
 # Code Example
 ```
+function returnArgumentsArray(arr) {
+  let i;
+  let array = [];
+  for (i = 0; i < arguments.length; i++)
+    if (arguments[i]) {
+      array.push(arguments[i]);
+    }
+  return array;
+}
+```
