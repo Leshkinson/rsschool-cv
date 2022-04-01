@@ -29,3 +29,9 @@ function returnArgumentsArray(arr) {
   return array;
 }
 ```
+# Education
+* Belarusian State Technological University
+    * Department of Logging Machinery, Forest Roads and Timber Production Technology
+# Languages
+* Russian - native speaker.
+* English - A2.
